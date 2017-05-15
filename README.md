@@ -1,8 +1,10 @@
 # GitHub2017MAY 
 ## second level title 
+## Done on the readme-edits Branch
 
-1. First Item 
-2. second item 
-3. third item 
+1. Software Campentry  
+2. Linux Command line  
+3. Regular Expressions 
+4. and now, Github
 
-My First change created
+change created
